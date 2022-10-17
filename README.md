@@ -1,6 +1,9 @@
 # vmware-sdwan-acl
 
-python script that reads a cisco config file using the cisco-acl "library", and uses the result dictionary to build vmware sd-wan vco firewall rules.
+python script that reads a cisco config file using the cisco-acl "library" from another Vladimir's github
+https://github.com/vladimirs-git/cisco-acl
+
+and uses the result dictionary to build vmware sd-wan vco firewall rules.
 
 Note: 
 Currently the 2 scripts provided only work with ACL used as outbound direction.
