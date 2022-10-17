@@ -14,3 +14,7 @@ Ex of some random Cisco config created to illustrated which lines can be convert
 Gets converted to:
 ![Screenshot 2022-10-17 at 15 35 25](https://user-images.githubusercontent.com/76786046/196200617-57cd3c76-6cde-4bf4-8019-35db33976a9e.png)
 
+
+![Screenshot 2022-10-17 at 16 18 20](https://user-images.githubusercontent.com/76786046/196201420-2603be63-5954-418e-b72f-6175c33dcd12.png)
+![Screenshot 2022-10-17 at 16 18 08](https://user-images.githubusercontent.com/76786046/196201425-c8899234-2e09-4280-99da-015c17bea546.png)
+![Screenshot 2022-10-17 at 16 17 57](https://user-images.githubusercontent.com/76786046/196201426-eaa24e8f-34e0-4242-9bfd-aee2be86b9aa.png)
